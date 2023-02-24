@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Test1",
+        "course":"web dev",
+        "stu_id":1
+    },
+    {
+        "name":"Test2",
+        "course":"UI/UX",
+        "stu_id":2
+    },
+    {
+        "name":"Test3",
+        "course":"Cyber security",
+        "stu_id":3
+    }
+]
